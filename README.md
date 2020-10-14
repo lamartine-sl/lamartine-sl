@@ -1,4 +1,4 @@
-#### Lamartine Santana
+# Lamartine Santana
 
 ## Formado em Economia, sou um resolvedor de problemas e uso os dados para me ajudar.
 
